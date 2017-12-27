@@ -1,6 +1,5 @@
-# Angular NativeScript Seed
-
-Build truly web and native applications using NativeScript and Angular. This seed allows your project to share code between the environments; having complete control over dependencies.
+# Full Circle
+Bringing friend groups closer! You and your friend groups can search local restaurants, Bars, and Events near you allowing everyone to be in the know of what's happening. 
 
 ## Highlights
 - i18n Translations
