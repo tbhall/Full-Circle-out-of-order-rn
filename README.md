@@ -1,6 +1,5 @@
-# Angular NativeScript Seed
-
-Build truly web and native applications using NativeScript and Angular. This seed allows your project to share code between the environments; having complete control over dependencies.
+# Full Circle
+Bring your friend groups closer! You and your friends will be able to see all restaurants, bars, and events near you allowing everyone to always be included.
 
 ## Highlights
 - i18n Translations
@@ -41,16 +40,3 @@ Each platform is run respective to it's folder. View available commands here:
 - [Integrating Angular Material (`@angular/material`)](https://github.com/TeamMaestro/angular-native-seed/wiki/Integrating-Material-for-Web)
 - [Integrating Ionic Styles & Components - Demo Project @proyecto26](https://github.com/proyecto26/nativescript-ionic-template)
 - [NativeScript with Angular Web Application Conversion](https://nativescripting.com/course/nativescript-with-angular-web-application-conversion)
-
-## Workspace Options
-- [VSCode WorkSpace Settings](https://github.com/TeamMaestro/angular-native-seed/wiki/Optional:-VSCode-WorkSpace-Settings)
-
-| | |
-|:---: |:---:|
-|![Web Preview](https://i.gyazo.com/1ba4d3be7b7332ce91bd6715dc752d8b.gif)|![Native Preview](https://i.gyazo.com/0a88b56cff9af632f618e5b123502f5f.gif)|
-
-# Contributors 
-
-[<img alt="Don Burgess" src="https://avatars1.githubusercontent.com/u/7612751?v=3&s=117" width="117">](https://github.com/db3dev) | [<img alt="Sean perkins" src="https://avatars1.githubusercontent.com/u/13732623?v=3&s=117" width="117">](https://github.com/sean-perkins) |
-:---: |:---: |
-[Don Burgess](https://github.com/db3dev) |[Sean Perkins](https://github.com/sean-perkins)|
